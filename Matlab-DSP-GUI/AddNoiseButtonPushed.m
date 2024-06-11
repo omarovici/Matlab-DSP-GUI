@@ -14,6 +14,7 @@
                 
                 % Play the noisy audio using sound
                 sound(noisyAudio, app1.fs);
+                
             
        
         end
