@@ -4,6 +4,7 @@ function removeNoiseFromAudio()
     numLines = 1;
     defaultInput = {'0'};  
     userNumber = inputdlg(prompt, dlgTitle, numLines, defaultInput);
+    
 
     seconds = str2double(userNumber{1});
 
