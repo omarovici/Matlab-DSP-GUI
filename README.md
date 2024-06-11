@@ -60,7 +60,7 @@ To use this project, you will need MATLAB installed on your computer. Additional
 ### Steps
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/Matlab-DSP-GUI.git
+   [git clone https://github.com/yourusername/Matlab-DSP-GUI.git](https://github.com/omarovici/Matlab-DSP-GUI.git)
    ```
 2. Open MATLAB and navigate to the cloned repository directory.
 3. Run the main GUI function.
