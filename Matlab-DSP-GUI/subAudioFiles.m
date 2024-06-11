@@ -23,10 +23,12 @@ function subAudioFiles()
     xlabel('Time (s)');
     ylabel('Amplitude');
 
+
     subplot(3, 1, 3);
     plot((1:length(multiplied_audio)) / min(fs1, fs2), multiplied_audio);
     title('Subracted Audio');
     xlabel('Time (s)');
     ylabel('Amplitude');
+    
 
 end
