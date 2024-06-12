@@ -76,3 +76,4 @@ To use this project, you will need MATLAB installed on your computer. Additional
 ---
 
 By providing a comprehensive set of tools for digital signal processing, **Matlab-DSP-GUI** aims to be an essential utility for anyone working with audio signals. Dive in, explore, and contribute to make it even better!
+
